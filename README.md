@@ -1,2 +1,2 @@
 # Codecademy-Tea-Cozy
- Tea Cozy Project
+ Tea Cozy Project from Codecademy's Front End Engineer course
